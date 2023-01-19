@@ -1,11 +1,13 @@
 <div id="header" align="center">
-    <img src="[https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif](https://user-images.githubusercontent.com/99931241/213529745-25fde904-1d0d-4d82-9494-99b2cc9899e4.jpg)" width="200" />
+    <img src="https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif" width="200" />
     <h1 align="center">Hi 👋, I'm Mijail</h1>
-    <h3 align="center">A passionate web fullstack developer from México. I like teaching what I learn in my Social
-        Media: YouTube, Twitch and TikTok where you can find me like a YouDevs, and my secundary youtube channel: NKL
-        YouDevs.</h3>
-    
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/GarciaJhonLucas) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/GarciaJhonLucas) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/GarciaJhonLucas) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/GarciaJhonLucas) 
+    <h3 align="center">
+        Current student at Silabuz (Back End Developer) and SQL Server Database specialist. With knowledge in analysis, development and administration of information           systems, computer networks and distributed applications. Mastery of computer tools at an intermediate-advanced level. With work experience in the electoral,           industrial and educational sectors, in the areas of computing and information technology and administration. High sense of responsibility, commitment,                 customer orientation and teamwork.
+    </h3>
+    [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/MIDEZA.22) 
+    [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mideza.22) 
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mijail-denis-z-51a09a165) 
+    [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MijailZavala) 
 </div>
 
 
