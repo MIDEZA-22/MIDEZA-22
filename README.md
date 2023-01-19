@@ -31,11 +31,11 @@
 
 - 💬 Ask me about **HTML5, CSS3, Python**
 
-- 📫 How to reach me ****
+- 📫 How to reach me **mijail1993.mdzl@gmail.com**
 
-- 🌱 I’m currently learning **React.js, Blockchain, Web3 and Solidity**
+- 🌱 I’m currently learning **Node.js, Express, JavaScript, TypeScript, Prisma**
 
-- 🌐 Website [youdevs.com](youdevs.com)
+- 🌐 Website [namedominio.com](namedominio.com)
 
 
 <div align="left">
