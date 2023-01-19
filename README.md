@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif" width="200" />
+    <!--<img src="https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif" width="200" />-->
     <h1 align="center">Hi 👋, I'm Mijail</h1>
     <h3 align="center">
         Current student at Silabuz (Back End Developer) and SQL Server Database specialist. With knowledge in analysis, development and administration of information           systems, computer networks and distributed applications. Mastery of computer tools at an intermediate-advanced level. With work experience in the electoral,           industrial and educational sectors, in the areas of computing and information technology and administration. High sense of responsibility, commitment,                 customer orientation and teamwork.
@@ -25,13 +25,13 @@
 
 ---
 
+
 ### 👨‍💻 About Me :
 
-- 📝 I regularly upload videos on [https://www.youtube.com/youdevs](https://www.youtube.com/youdevs)
 
-- 💬 Ask me about **PHP, Laravel, Python, Javascript**
+- 💬 Ask me about **HTML5, CSS3, Python**
 
-- 📫 How to reach me **carlos.develops@gmail.com**
+- 📫 How to reach me ****
 
 - 🌱 I’m currently learning **React.js, Blockchain, Web3 and Solidity**
 
