@@ -53,7 +53,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="PYTHON" alt="PYTHON" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="DJANGO" alt="DJANGO" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="FLASK" alt="FLASK" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>
     </div>
 </div>
 
@@ -64,8 +64,8 @@
 <div align="left">
     <h3>📊 My Stats:</h3>
     <div>
-        <img src="http://github-readme-streak-stats.herokuapp.com?user=MIDEZA-22&theme=radical" width="415"/>
-        <img src="https://github-readme-stats.vercel.app/api?username=MIDEZA-22&count_private=true&show_icons=true&&theme=radical&include_all_commits=true"                 width="415"/>
+        <img src="http://github-readme-streak-stats.herokuapp.com?user=MIDEZA-22&theme=radical" width="415"/>&nbsp;
+        <img src="https://github-readme-stats.vercel.app/api?username=MIDEZA-22&count_private=true&show_icons=true&&theme=radical&include_all_commits=true"                     width="415"/>
     </div>
     <div align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIDEZA-22&theme=radical" width="500" height="250"/>
