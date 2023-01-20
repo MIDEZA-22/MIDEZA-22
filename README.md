@@ -55,23 +55,19 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="DJANGO" alt="DJANGO" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="FLASK" alt="FLASK" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-        <!--<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;-->
-        <!--<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="REACT" alt="REACT" width="40" height="40"/>&nbsp;-->
-        <!--<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="BOOTSTRAP" alt="BOOTSTRAP" width="40" height="40"/>&nbsp;-->
-        <!--<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="40" height="40"/>&nbsp;-->
-        <!--<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;-->
-        <!--<img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" title="LARAVEL" alt="LARAVEL" width="40" height="40"/>&nbsp;-->
       </div>
 </div>
 
 
 ---
 
+<div align="left">
+    <h3>### 📊 My Stats :</h3>
+    <div>
+        <img src="http://github-readme-streak-stats.herokuapp.com?user=MIDEZA-22&theme=radical" width="500"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=MIDEZA-22&count_private=true&show_icons=true&&theme=radical&include_all_commits=true" width="500"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIDEZA-22&layout=compact" width="500"/>
+    </div>
+</div>
 
-### 📊 My Stats :
 
-<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=MIDEZA-22&theme=radical" width="500"/></p>
-
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=MIDEZA-22&count_private=true&show_icons=true&&theme=radical&include_all_commits=true" width="500"/></p> 
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIDEZA-22&layout=compact" width="500"/></p>
