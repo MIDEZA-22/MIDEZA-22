@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <!--<img src="https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif" width="200" />-->
-    <h1 align="center">Hi 👋, I'm Mijail</h1>
+    <h1 align="center">Hi 👋, I'm Mijail Zavala</h1>
     <h3 align="center">
         Professional in systems engineering and SQL Server Database specialist. With knowledge in analysis, development and administration of information                       systems, computer networks and distributed applications. Mastery of computer tools at an intermediate-advanced level. With work experience in the electoral,           industrial and educational sectors, in the areas of computing and information technology and administration. High sense of responsibility, commitment,                 customer orientation and teamwork.
     </h3>
@@ -67,6 +67,6 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MIDEZA-22&theme=gruvbox_duo&border_radius=0&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MIDEZA-22&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MIDEZA-22&show_icons=true&theme=gruvbox_duo&border_radius=0l)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MIDEZA-22&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
