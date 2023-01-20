@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <!--<img src="https://drive.google.com/file/d/1z2pPcOsHv-rZuCMH23_sdXApJ_Zr3HWY/view?usp=sharing" width="200" />-->
-    <h1 align="center">Hi 👋, I'm Mijail Zavala</h1>
+    <h1 align="center">Hi 👋, I'm Mijail</h1>
     <h3 align="justify">
         Professional in systems engineering and SQL Server Database specialist. With knowledge in analysis, development and administration of information                       systems, computer networks and distributed applications. Mastery of computer tools at an intermediate-advanced level. With work experience in the electoral,           industrial and educational sectors, in the areas of computing and information technology and administration. High sense of responsibility, commitment,                 customer orientation and teamwork.
     </h3>
@@ -30,7 +30,7 @@
 
 
 <div align="left">
-    <h3>👨‍💻 About Me :</h3>
+    <h3>👨‍💻 About Me:</h3>
     <ul>
         <li>💬 Ask me about <b>HTML5, CSS3, Python</b></li>
         <li>📫 How to reach me <b>mijail1993.mdzl@gmail.com</b></li>
@@ -62,7 +62,7 @@
 
 
 <div align="left">
-    <h3>📊 My Stats :</h3>
+    <h3>📊 My Stats:</h3>
     <div>
         <p><img src="http://github-readme-streak-stats.herokuapp.com?user=MIDEZA-22&theme=radical" width="500"/></p>
         <p><img src="https://github-readme-stats.vercel.app/api?username=MIDEZA-22&count_private=true&show_icons=true&&theme=radical&include_all_commits=true"                 width="500"/></p>
