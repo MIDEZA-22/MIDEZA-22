@@ -64,8 +64,8 @@
 <div align="left">
     <h3>📊 My Stats:</h3>
     <div>
-        <img src="http://github-readme-streak-stats.herokuapp.com?user=MIDEZA-22&theme=radical" width="400"/>
-        <img src="https://github-readme-stats.vercel.app/api?username=MIDEZA-22&count_private=true&show_icons=true&&theme=radical&include_all_commits=true"                     width="400"/>
+        <img src="http://github-readme-streak-stats.herokuapp.com?user=MIDEZA-22&theme=radical" width="430"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=MIDEZA-22&count_private=true&show_icons=true&&theme=radical&include_all_commits=true"                     width="430"/>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIDEZA-22&theme=radical" width="350"/>
     </div>
 </div>
