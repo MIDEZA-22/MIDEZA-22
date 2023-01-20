@@ -70,7 +70,7 @@
 
 ### 📊 My Stats :
 
-<img src="http://github-readme-streak-stats.herokuapp.com?user=MIDEZA-22&theme=radical&border_radius=4.5&date_format=j%2Fn%5B%2FY%5D)" title="GITHUB" alt="GITHUB" width="40" height="40"/>
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MIDEZA-22&theme=radical&border_radius=4.5&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mijail+zavala&show_icons=true&theme=radical)
