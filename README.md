@@ -38,6 +38,9 @@
 - 🌐 Website [mijail-zavala.com](mijail-zavala.com)
 
 
+---
+
+
 <div align="left">
     <h3>🔨 Languages and Tools:</h3>
     <div>
