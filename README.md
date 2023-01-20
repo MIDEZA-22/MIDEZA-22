@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://drive.google.com/file/d/1z2pPcOsHv-rZuCMH23_sdXApJ_Zr3HWY/view?usp=sharing" width="200" />
+    <!--<img src="https://drive.google.com/file/d/1z2pPcOsHv-rZuCMH23_sdXApJ_Zr3HWY/view?usp=sharing" width="200" />-->
     <h1 align="center">Hi 👋, I'm Mijail Zavala</h1>
     <h3 align="center">
         Professional in systems engineering and SQL Server Database specialist. With knowledge in analysis, development and administration of information                       systems, computer networks and distributed applications. Mastery of computer tools at an intermediate-advanced level. With work experience in the electoral,           industrial and educational sectors, in the areas of computing and information technology and administration. High sense of responsibility, commitment,                 customer orientation and teamwork.
