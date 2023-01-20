@@ -68,6 +68,6 @@
         <img src="https://github-readme-stats.vercel.app/api?username=MIDEZA-22&count_private=true&show_icons=true&&theme=radical&include_all_commits=true"                     width="415"/>
     </div>
     <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIDEZA-22&theme=radical" width="415"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIDEZA-22&theme=radical" width="415" height="300"/>
     </div>
 </div>
