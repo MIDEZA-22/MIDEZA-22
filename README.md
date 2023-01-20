@@ -32,9 +32,9 @@
 <div align="left">
     <h3>👨‍💻 About Me :</h3>
     <ul>
-        <li>💬 Ask me about **HTML5, CSS3, Python**</li>
-        <li>📫 How to reach me **mijail1993.mdzl@gmail.com**</li>
-        <li>🌱 I’m currently learning **Back End Development**</li>
+        <li>💬 Ask me about <b>HTML5, CSS3, Python</b></li>
+        <li>📫 How to reach me <b>mijail1993.mdzl@gmail.com</b></li>
+        <li>🌱 I’m currently learning <b>Back End Development</b></li>
         <li>🌐 Website [mijail-zavala.com](mijail-zavala.com)</li>
     </ul>
 </div>
