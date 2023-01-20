@@ -71,8 +71,8 @@
 ### 📊 My Stats :
 
 <p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=MIDEZA-22&theme=radical" alt="linder3hs"  /></p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mijail+zavala&show_icons=true&theme=radical)
 
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=MIDEZA-22&count_private=true&show_icons=true&&theme=algolia&include_all_commits=true" width="400"></p> 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MIDEZA-22&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIDEZA-22&layout=compact"></p>
