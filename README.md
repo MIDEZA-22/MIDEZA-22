@@ -35,7 +35,7 @@
         <li>💬 Ask me about <b>HTML5, CSS3, Python</b></li>
         <li>📫 How to reach me <b>mijail1993.mdzl@gmail.com</b></li>
         <li>🌱 I’m currently learning <b>Back End Development</b></li>
-        <li>🌐 Website [mijail-zavala.com](mijail-zavala.com)</li>
+        <li>🌐 Website <a>(mijail-zavala.com)</a></li>
     </ul>
 </div>
 
