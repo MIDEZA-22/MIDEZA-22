@@ -67,5 +67,6 @@
         <img src="http://github-readme-streak-stats.herokuapp.com?user=MIDEZA-22&theme=radical" width="420"/>
         <img src="https://github-readme-stats.vercel.app/api?username=MIDEZA-22&count_private=true&show_icons=true&&theme=radical&include_all_commits=true"                     width="420"/>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIDEZA-22&theme=radical" width="420"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIDEZA-22&layout=compact&theme=algolia">
     </div>
 </div>
