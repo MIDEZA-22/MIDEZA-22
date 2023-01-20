@@ -31,16 +31,12 @@
 
 <div align="left">
     <h3>👨‍💻 About Me :</h3>
-    <ol>
-        <li>Hola</li>
-    </ol>
-- 💬 Ask me about **HTML5, CSS3, Python**
-
-- 📫 How to reach me **mijail1993.mdzl@gmail.com**
-
-- 🌱 I’m currently learning **Back End Development**
-
-- 🌐 Website [mijail-zavala.com](mijail-zavala.com)
+    <ul>
+        <li>💬 Ask me about **HTML5, CSS3, Python**</li>
+        <li>📫 How to reach me **mijail1993.mdzl@gmail.com**</li>
+        <li>🌱 I’m currently learning **Back End Development**</li>
+        <li>🌐 Website [mijail-zavala.com](mijail-zavala.com)</li>
+    </ul>
 </div>
 
 
