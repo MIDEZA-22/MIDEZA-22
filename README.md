@@ -72,6 +72,6 @@
 
 <p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=MIDEZA-22&theme=radical"/></p>
 
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=MIDEZA-22&count_private=true&show_icons=true&&theme=radical&include_all_commits=true" width="450"/></p> 
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=MIDEZA-22&count_private=true&show_icons=true&&theme=radical&include_all_commits=true" width="500"/></p> 
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIDEZA-22&layout=compact"/></p>
