@@ -67,7 +67,6 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MIDEZA-22&theme=gruvbox_duo&border_radius=0&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MIDEZA-22&show_icons=true&theme=gruvbox_duo&border_radius=0l)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MIDEZA-22&show_icons=true&gruvbox_duo&border_radius=0)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MIDEZA-22&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MIDEZA-22&show_icons=true&theme=radical)
