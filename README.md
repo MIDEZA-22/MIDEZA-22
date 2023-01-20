@@ -70,3 +70,4 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MIDEZA-22&show_icons=true&theme=gruvbox_duo&border_radius=0l)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MIDEZA-22&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MIDEZA-22&show_icons=true&theme=radical)
