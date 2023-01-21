@@ -33,7 +33,6 @@
         <li>🌱 I’m currently learning <b>Back End Development</b></li>
         <li>🌐 Website <a href="https://mijail-zavala.com">mijail-zavala.com</a></li>
     </div>
-
 </div>
 
 ---
