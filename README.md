@@ -32,8 +32,8 @@
         <p>💻 I’m currently learning <b>Back End Development</b></p>
         <p>📣 Ask me about <b>HTML5, CSS3, Python</b></p>
         <p>📧 How to reach me <b>mijail1993.mdzl@gmail.com</b></p>
-        <!--<p>📄 Know about my experiences <a href="https://enlace-cv">Curriculum Vitae</a></p>-->
-        <p>🌐 Website <b><a href="https://mijail-zavala.com">mijail-zavala.com</a></b></p>
+        <!--<p>📄 Know about my experiences: <a href="https://enlace-cv">Curriculum Vitae</a></p>-->
+        <p>🌐 Website: <b><a href="https://mijail-zavala.com">mijail-zavala.com</a></b></p>
     </div>
 </div>
 
