@@ -28,10 +28,10 @@
 <div align="left">
     <h3>👨‍💻 About Me:</h3>
     <div align="center">
-        <li>💬 Ask me about <b>HTML5, CSS3, Python</b></li>
-        <li>📫 How to reach me <b>mijail1993.mdzl@gmail.com</b></li>
-        <li>🌱 I’m currently learning <b>Back End Development</b></li>
-        <li>🌐 Website <a href="https://mijail-zavala.com">mijail-zavala.com</a></li>
+        💬 Ask me about <b>HTML5, CSS3, Python</b>
+        📫 How to reach me <b>mijail1993.mdzl@gmail.com</b>
+        🌱 I’m currently learning <b>Back End Development</b>
+        🌐 Website <a href="https://mijail-zavala.com">mijail-zavala.com</a>
     </div>
 </div>
 
