@@ -2,7 +2,7 @@
     <!--<img src="https://drive.google.com/file/d/1z2pPcOsHv-rZuCMH23_sdXApJ_Zr3HWY/view?usp=sharing" width="200" />-->
     <h1>Hi 👋, I'm Mijail</h1>
     <h3>
-        SQL server database specialist and passionate Back End Developer from Perú.
+        SQL server Database Specialist and Passionate Back End Developer from Perú.
     </h3>
 </div>
 
