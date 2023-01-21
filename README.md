@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <!--<img src="https://drive.google.com/file/d/1z2pPcOsHv-rZuCMH23_sdXApJ_Zr3HWY/view?usp=sharing" width="200" />-->
-    <h1 align="center">Hi 👋, I'm Mijail</h1>
-    <h3 align="justify">
+    <h1>Hi 👋, I'm Mijail</h1>
+    <h3>
         SQL server database specialist and passionate Back End Developer from Perú.
     </h3>
 </div>
