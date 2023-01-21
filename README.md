@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div align="center">
     <!--<img src="https://drive.google.com/file/d/1z2pPcOsHv-rZuCMH23_sdXApJ_Zr3HWY/view?usp=sharing" width="200" />-->
     <h1>Hi 👋, I'm Mijail</h1>
     <h3>
@@ -9,7 +9,13 @@
 
 ---
 
-<div id="badges" align="center">
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=MIDEZA-22&theme=radical" alt="mideza-22"/>
+</div>
+
+---
+
+<div align="center">
     <a href="https://facebook.com/MIDEZA.22">
         <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"/>
     </a>&nbsp;
