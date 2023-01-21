@@ -28,6 +28,7 @@
 <div align="left">
     <h3>👨‍💻 About Me:</h3>
     <div align="center">
+        <p>👯 I’m looking to collaborate in <b>Back End Development Projects</b></p>
         <p>📣 Ask me about <b>HTML5, CSS3, Python</b></p>
         <p>📧 How to reach me <b>mijail1993.mdzl@gmail.com</b></p>
         <p>💻 I’m currently learning <b>Back End Development</b></p>
