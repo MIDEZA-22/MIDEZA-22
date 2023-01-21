@@ -32,7 +32,7 @@
 ---
 
 <div align="left">
-    <h3>👨‍💻 About Me:</h3>
+    <h3>📌 About Me:</h3>
     <div align="center">
         <p>👯 I’m looking to collaborate in: <b>Back End Development Projects</b></p>
         <p>💻 I’m currently learning: <b>Back End Development</b></p>
@@ -46,7 +46,7 @@
 ---
 
 <div align="left">
-    <h3>🔨 Languages and Tools:</h3>
+    <h3>📌 Languages and Tools:</h3>
     <div align="center">
         <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GITHUB" alt="GITHUB" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="GIT" alt="GIT" width="40" height="40"/>&nbsp;
@@ -63,7 +63,7 @@
 ---
 
 <div align="left">
-    <h3>📊📌 My Stats:</h3>
+    <h3>📌 My Stats:</h3>
     <div align="center">
         <img src="http://github-readme-streak-stats.herokuapp.com?user=MIDEZA-22&theme=radical" width="415"/>&nbsp;
         <img src="https://github-readme-stats.vercel.app/api?username=MIDEZA-22&show_icons=true&theme=radical" width="415"/>&nbsp;
