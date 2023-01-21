@@ -5,7 +5,9 @@
         Professional in systems engineering and SQL Server Database specialist. With knowledge in analysis, development and administration of information                       systems, computer networks and distributed applications. Mastery of computer tools at an intermediate-advanced level. With work experience in the electoral,           industrial and educational sectors, in the areas of computing and information technology and administration. High sense of responsibility, commitment,                 customer orientation and teamwork.
     </h3>
 </div>
+
 ---
+
 <div id="badges" align="center">
     <a href="https://facebook.com/MIDEZA.22">
         <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"/>
@@ -30,7 +32,9 @@
         <li>🌐 Website <a href="https://mijail-zavala.com">mijail-zavala.com</a></li>
     </ul>
 </div>
+
 ---
+
 <div align="left">
     <h3>🔨 Languages and Tools:</h3>
     <div>
@@ -44,7 +48,9 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>
     </div>
 </div>
+
 ---
+
 <div align="left">
     <h3>📊 My Stats:</h3>
     <div align="center">
