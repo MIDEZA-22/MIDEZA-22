@@ -27,12 +27,12 @@
 
 <div align="left">
     <h3>👨‍💻 About Me:</h3>
-    <ul>
+    <ol>
         <li>💬 Ask me about <b>HTML5, CSS3, Python</b></li>
         <li>📫 How to reach me <b>mijail1993.mdzl@gmail.com</b></li>
         <li>🌱 I’m currently learning <b>Back End Development</b></li>
         <li>🌐 Website <a href="https://mijail-zavala.com">mijail-zavala.com</a></li>
-    </ul>
+    </ol>
 </div>
 
 ---
@@ -56,8 +56,8 @@
 <div align="left">
     <h3>📊 My Stats:</h3>
     <div align="center">
-        <img src="http://github-readme-streak-stats.herokuapp.com?user=MIDEZA-22&theme=radical" width="420"/>
-        <img src="https://github-readme-stats.vercel.app/api?username=MIDEZA-22&show_icons=true&theme=radical" width="420"/>
+        <img src="http://github-readme-streak-stats.herokuapp.com?user=MIDEZA-22&theme=radical" width="420"/>&nbsp;
+        <img src="https://github-readme-stats.vercel.app/api?username=MIDEZA-22&show_icons=true&theme=radical" width="420"/>&nbsp;
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIDEZA-22&layout=compact&theme=radical"/>
     </div>
 </div>
