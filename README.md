@@ -25,7 +25,7 @@
 
 ---
 
-<div align="left">
+<div align="center">
     <h3>👨‍💻 About Me:</h3>
     <ol>
         <li>💬 Ask me about <b>HTML5, CSS3, Python</b></li>
