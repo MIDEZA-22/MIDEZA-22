@@ -11,14 +11,14 @@
 <div id="badges" align="center">
     <a href="https://facebook.com/MIDEZA.22">
         <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"/>
-    </a>
+    </a>&nbsp;
     <a href="https://instagram.com/mideza.22">
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
-    </a>
+    </a>&nbsp;
     <a href="https://linkedin.com/in/mijail-denis-z-51a09a165">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
-    </a>
-        <a href="https://twitter.com/MijailZavala">
+    </a>&nbsp;
+    <a href="https://twitter.com/MijailZavala">
         <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white"/>
     </a>
 </div>
