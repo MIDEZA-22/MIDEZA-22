@@ -4,7 +4,6 @@
     <h3>
         SQL server Database Specialist and Passionate Back End Developer from Perú.
     </h3>
-    <img src="https://github-profile-trophy.vercel.app/?username=MIDEZA-22&theme=radical" alt="mideza-22"/>
 </div>
 
 ---
