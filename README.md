@@ -17,16 +17,16 @@
 <div align="left">
     <h3>📌 Social:</h3>
     <div align="center">
-        <a href="https://facebook.com/MIDEZA.22">
+        <a href="https://facebook.com/mideza22">
             <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"/>
         </a>&nbsp;
-        <a href="https://instagram.com/mideza.22">
+        <a href="https://instagram.com/mideza22">
             <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
         </a>&nbsp;
         <a href="https://linkedin.com/in/mideza22">
             <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
         </a>&nbsp;
-        <a href="https://twitter.com/MijailZavala">
+        <a href="https://twitter.com/mideza22">
             <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white"/>
         </a>
     </div>
