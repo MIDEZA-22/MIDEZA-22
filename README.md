@@ -1,5 +1,4 @@
 <div align="center">
-    <img src="https://github.com/MIDEZA-22/MIDEZA-22/blob/main/BANNER-MIDEZA.jpg" width="200" />
     <h1>Hi 👋, I'm Mijail</h1>
     <h3>
         Professional in Systems Engineering | SQL Server Database Specialist and Passionate Back End Developer from Perú
