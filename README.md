@@ -59,7 +59,6 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="FLASK" alt="FLASK" width="40" height="40"/>&nbsp;
         <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" title="MSSQL"  alt="MSSQL" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="POSTGRESQL"  alt="POSTGRESQL" width="40"           height="40"/>&nbsp;
-        <img src="" title="MSSQL"  alt="MSSQL" width="40" height="40"/>
     </div>
 </div>
 
