@@ -41,7 +41,7 @@
         <p>📣 Ask me about: <b>HTML5, CSS3, Python</b></p>
         <p>📧 How to reach me: <b>antrax63@gmail.com</b></p>
         <!--<p>📄 Know about my experiences: <a href="https://enlace-cv">Curriculum Vitae</a></p>-->
-        <p>🌐 Website: <b><a href="https://mideza.com">mideza.com</a></b></p>
+        <!--<p>🌐 Website: <b><a href="https://mideza.com">mideza.com</a></b></p>-->
     </div>
 </div>
 
