@@ -69,6 +69,6 @@
     <div align="center">
         <img src="http://github-readme-streak-stats.herokuapp.com?user=MIDEZA-22&theme=radical" width="415"/>&nbsp;
         <img src="https://github-readme-stats.vercel.app/api?username=MIDEZA-22&show_icons=true&theme=radical" width="392"/>&nbsp;
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIDEZA-22&layout=compact"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIDEZA-22&theme=radical"/>
     </div>
 </div>
