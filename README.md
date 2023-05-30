@@ -70,6 +70,6 @@
     <div align="center">
         <img src="http://github-readme-streak-stats.herokuapp.com?user=MIDEZA-22&theme=radical" width="415"/>&nbsp;
         <img src="https://github-readme-stats.vercel.app/api?username=MIDEZA-22&theme=radical&show_icons=true" width="392"/>&nbsp;
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIDEZA-22&theme=radical&layout=compact"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIDEZA-22&layout=compact"/>
     </div>
 </div>
