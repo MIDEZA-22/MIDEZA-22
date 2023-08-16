@@ -8,7 +8,7 @@
 ---
 
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=MIDEZA-22&theme=merko" alt="mideza-22"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=MIDEZA-22&theme=gruvbox" alt="mideza-22"/>
 </div>
 
 ---
@@ -69,8 +69,8 @@
 <div align="left">
     <h3>📌 My Stats:</h3>
     <div align="center">
-        <img src="http://github-readme-streak-stats.herokuapp.com?user=MIDEZA-22&theme=merko" width="415"/>&nbsp;
-        <img src="https://github-readme-stats.vercel.app/api?username=MIDEZA-22&show_icons=true&theme=merko" width="392"/>&nbsp;
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIDEZA-22&theme=merko&layout=compact"/>
+        <img src="http://github-readme-streak-stats.herokuapp.com?user=MIDEZA-22&theme=gruvbox" width="415"/>&nbsp;
+        <img src="https://github-readme-stats.vercel.app/api?username=MIDEZA-22&show_icons=true&theme=gruvbox" width="392"/>&nbsp;
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIDEZA-22&theme=gruvbox&layout=compact"/>
     </div>
 </div>
