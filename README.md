@@ -71,7 +71,7 @@
     <div align="center">
         <p><img src="http://github-readme-streak-stats.herokuapp.com?user=MIDEZA-22&theme=tokyonight" width="400"/></p>
         <p><img src="https://github-readme-stats.vercel.app/api?username=MIDEZA-22&show_icons=true&theme=tokyonight" width="400"/></p>
-        <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIDEZA-22&theme=tokyonight&layout=compact" 
+        <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIDEZA-22&theme=tokyonight" 
         width="400"/></p>
     </div>
 </div>
