@@ -69,8 +69,8 @@
 <div align="left">
     <h3>📌 My Stats:</h3>
     <div align="center">
-        <img src="http://github-readme-streak-stats.herokuapp.com?user=MIDEZA-22&theme=tokyonight" width="394"/>&nbsp;
-        <img src="https://github-readme-stats.vercel.app/api?username=MIDEZA-22&show_icons=true&theme=tokyonight" width="390"/>&nbsp;
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIDEZA-22&theme=tokyonight&layout=compact"/>
+        <p><img src="http://github-readme-streak-stats.herokuapp.com?user=MIDEZA-22&theme=tokyonight" width="390" height="250"/></p>;
+        <p><img src="https://github-readme-stats.vercel.app/api?username=MIDEZA-22&show_icons=true&theme=tokyonight" width="390" height="250"/></p>;
+        <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIDEZA-22&theme=tokyonight&layout=compact" width="390" height="250"/></p>
     </div>
 </div>
