@@ -50,17 +50,28 @@
 <div align="left">
     <h3>📌 Languages and Tools:</h3>
     <div align="center">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GITHUB" alt="GITHUB" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="GIT" alt="GIT" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="PYTHON" alt="PYTHON" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="DJANGO" alt="DJANGO" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="FLASK" alt="FLASK" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="JAVA" alt="JAVA" width="40" height="40"/>&nbsp;
-        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" title="MSSQL"  alt="MSSQL" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MYSQL" alt="MYSQL" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="POSTGRESQL"  alt="POSTGRESQL" width="40"           height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GITHUB" alt="GITHUB" 
+         width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="GIT" alt="GIT" width="40" 
+        height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" 
+        height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS3" width="40" 
+        height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="PYTHON" alt="PYTHON" 
+        width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="DJANGO" alt="DJANGO" width="40" 
+        height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="FLASK" alt="FLASK" width="40" 
+        height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="JAVA" alt="JAVA" 
+        width="40" height="40"/>&nbsp;
+        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" title="MSSQL"  alt="MSSQL" width="40" 
+        height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MYSQL" alt="MYSQL" 
+        width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="POSTGRESQL"  
+        alt="POSTGRESQL" width="40" height="40"/>&nbsp;
     </div>
 </div>
 
