@@ -8,7 +8,7 @@
 ---
 
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?theme=tokyonight&username=MIDEZA-22 alt="mideza-22""/>
+    <img src="https://github-profile-trophy.vercel.app/?username=MIDEZA-22&theme=tokyonight alt="mideza-22""/>
 </div>
 
 ---
