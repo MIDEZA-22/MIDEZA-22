@@ -74,6 +74,8 @@
         width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="POSTGRESQL"  
         alt="POSTGRESQL" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MONGODB"  
+        alt="MONGODB" width="40" height="40"/>&nbsp;
     </div>
 </div>
 
