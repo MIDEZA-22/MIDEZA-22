@@ -56,7 +56,7 @@
         height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" 
         height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS3" width="40" 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"  title="CSS3" alt="CSS3" width="40" 
         height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"  title="BOOTSTRAP" alt="BOOTSTRAP" width="40" 
         height="40"/>&nbsp;
@@ -74,13 +74,13 @@
         width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="SPRING" alt="SPRING" 
         width="40" height="40"/>&nbsp;
-        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" title="MSSQL"  alt="MSSQL" width="40" 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" title="MSSQL"  alt="MSSQL" width="40" 
         height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MYSQL" alt="MYSQL" 
         width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="POSTGRESQL"  
+        <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="POSTGRESQL"  
         alt="POSTGRESQL" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MONGODB"  
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MONGODB"  
         alt="MONGODB" width="40" height="40"/>&nbsp;
     </div>
 </div>
