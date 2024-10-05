@@ -39,7 +39,7 @@
         <p>👯 I’m looking to collaborate in: <b>Backend Development Projects</b></p>
         <p>💻 I’m currently learning: <b>Backend Development</b></p>
         <p>📣 Ask me about: <b>HTML5, CSS3, Python, SQL Server, etc.</b></p>
-        <p>📧 How to reach me: <b>antrax63@gmail.com</b></p>
+        <p>📧 How to reach me: <b>mijail1993.mdzl@gmail.com</b></p>
         <!--<p>📄 Know about my experiences: <a href="https://enlace-cv">Curriculum Vitae</a></p>-->
         <p>🌐 Website: <b><a href="https://mideza-22.github.io/Mijail-Denis-Zavala-Llanco---CV/">MIDEZA-22</a></b></p>
     </div>
