@@ -1,7 +1,7 @@
 <div align="center">
     <h1>Hi 👋, I'm Mijail</h1>
     <h3>
-        | Professional in Systems Engineering • Electrical Systems Maintenance Student • SQL Server Database Specialist • Backend Developer |
+        | Systems Engineer • Electrical Systems Maintenance Student • SQL Server Database Specialist • Backend Developer |
     </h3>
 </div>
 
