@@ -25,9 +25,6 @@
         <a href="https://linkedin.com/in/mideza22">
             <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
         </a>&nbsp;
-        <a href="https://twitter.com/mideza22">
-            <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white"/>
-        </a>
     </div>
 </div>
 
