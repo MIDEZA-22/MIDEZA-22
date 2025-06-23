@@ -33,8 +33,8 @@
 <div align="left">
     <h3>📌 About Me:</h3>
     <div align="center">
-        <p>👯 I’m looking to collaborate in: <b>Backend Development Projects</b></p>
-        <p>💻 I’m currently learning: <b>Backend Development</b></p>
+        <p>👯 I’m looking to collaborate in: <b>Backend Development Projects, preferably applied to technical or industrial sectors</b></p>
+        <p>💻 I’m currently learning: <b>Backend development and maintenance of electrical systems, with an interest in integrating technology and automation in industrial environments</b></p>
         <p>📣 Ask me about: <b>HTML5, CSS3, Python, SQL Server, etc.</b></p>
         <p>📧 How to reach me: <b>mijail1993.mdzl@gmail.com</b></p>
         <!--<p>📄 Know about my experiences: <a href="https://enlace-cv">Curriculum Vitae</a></p>-->
