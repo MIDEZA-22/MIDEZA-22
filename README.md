@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Hi 👋, I'm Mijail</h1>
+    <h1 align="center">I'm <a href="https://github.com/Aryagm">Mijail Zavala<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
     <h3>
         | Professional in Systems Engineering • Electrical Systems Maintenance Technician • Certified in Backend and SQL Server |
     </h3>
