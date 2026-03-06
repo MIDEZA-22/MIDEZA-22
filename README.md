@@ -1,4 +1,10 @@
 <div align="center">
+  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
+</div>
+
+---
+
+<div align="center">
     <h1 align="center">I'm <a href="https://github.com/MIDEZA-22">Mijail Zavala<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
     <h3>
         | Professional in Systems Engineering • Electrical Systems Maintenance Technician • Certified in Backend and SQL Server |
