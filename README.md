@@ -85,8 +85,8 @@
 <div align="left">
     <h3>📌 My Stats:</h3>
     <div align="center">
-        <img height="180em" width="450" src="https://github-readme-stats.vercel.app/api/top-langs?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="adam-pw />
+        <img height="180em" width="450" src="https://github-readme-stats.vercel.app/api/top-langs?username=MIDEZA-22&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"alt="adam-pw"bg_color=#808080/>
+
         <img height="180em" width="450" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MIDEZA-22&layout=compact&langs_count=8&theme=algolia"/>
     </div>
 </div>
