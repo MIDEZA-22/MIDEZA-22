@@ -87,6 +87,7 @@
     <div align="center">
         <img height="180em" width="450" src="https://github-readme-stats.vercel.app/api/top-langs?username=MIDEZA-22&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"alt="adam-pw"bg_color=#808080/>
 
-        <img height="180em" width="450" src="https://github-readme-stats.vercel.app/api?username=MIDEZA-22&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Abdo Achhoubi Github Stats">"alt="adam-pw"/>
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdoachhoubi&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Abdo Achhoubi Github Stats">
+
     </div>
 </div>
