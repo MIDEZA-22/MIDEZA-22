@@ -87,6 +87,6 @@
     <div align="center">
         <img height="180em" width="450" src="https://github-readme-stats.vercel.app/api/top-langs?username=MIDEZA-22&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"alt="adam-pw"bg_color=#808080/>
 
-        <img height="180em" width="450" src="https://github-readme-stats.vercel.app/api?username=MIDEZA-22&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/>
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=MIDEZA-22&show_icons=true&theme=tokyonight&line_height=27"/>
     </div>
 </div>
