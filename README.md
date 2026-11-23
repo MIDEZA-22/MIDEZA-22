@@ -87,7 +87,7 @@
     <div align="center">
         <img height="180em" width="450" src="https://github-readme-stats.vercel.app/api/top-langs?username=MIDEZA-22&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"alt="adam-pw"bg_color=#808080/>
 
-        <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"alt="adam-pw"/></p>
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=MIDEZA-22&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"alt="adam-pw" />
 
         <img height="180em" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=MIDEZA-22&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw"/>
     </div>
